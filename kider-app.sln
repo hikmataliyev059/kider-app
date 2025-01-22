@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kider-app", "kider-app\kider-app.csproj", "{7AFA7E36-DBCC-421A-AF0C-BC6EBDC7B713}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AFA7E36-DBCC-421A-AF0C-BC6EBDC7B713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AFA7E36-DBCC-421A-AF0C-BC6EBDC7B713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AFA7E36-DBCC-421A-AF0C-BC6EBDC7B713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AFA7E36-DBCC-421A-AF0C-BC6EBDC7B713}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C6E0BF2-E379-4854-B3CC-2E202C9A64C3}
+	EndGlobalSection
+EndGlobal
